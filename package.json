@@ -26,7 +26,7 @@
     "array-flat-polyfill": "^1.0.1",
     "effector": "^20.13.4",
     "firebase": "^7.13.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "log4js": "^6.1.2",
     "nodemon": "^2.0.2",
     "systeminformation": "^4.23.1",
