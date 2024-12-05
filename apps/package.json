@@ -21,7 +21,7 @@
     "@types/tween.js": "^18.5.0",
     "array-flat-polyfill": "^1.0.1",
     "jimp": "^0.10.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "log4js": "^6.1.2",
     "mic": "^2.1.2",
     "nodemon": "^2.0.2",
